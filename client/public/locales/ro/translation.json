@@ -1,0 +1,113 @@
+{
+  "nav": {
+    "home": "Acasă",
+    "myBike": "Motocicleta Mea",
+    "videos": "Videoclipuri",
+    "adminLogin": "Admin",
+    "logout": "Deconectare"
+  },
+  "hero": {
+    "headline": "Viața pe două roți",
+    "subline": "Bun venit în lumea mea moto — ture, modificări și tot ce e între ele.",
+    "ctaBike": "Vezi motocicleta",
+    "ctaVideos": "Vizionează videoclipuri"
+  },
+  "myBike": {
+    "pageTitle": "Motocicleta Mea",
+    "sectionSpecs": "Specificații tehnice",
+    "sectionGallery": "Galerie foto",
+    "sectionStory": "Povestea",
+    "storyPlaceholder": "[Înlocuiește cu povestea ta personală despre această motocicletă]",
+    "specs": {
+      "brand": "Marcă",
+      "model": "Model",
+      "year": "An",
+      "engine": "Motor",
+      "power": "Putere",
+      "torque": "Cuplu",
+      "weight": "Greutate uscată",
+      "topSpeed": "Viteză maximă",
+      "color": "Culoare",
+      "mileage": "Kilometraj actual"
+    }
+  },
+  "videos": {
+    "pageTitle": "Videoclipuri de motocicletă",
+    "noVideos": "Nicio înregistrare deocamdată — revino curând!",
+    "watchOn": "Vezi pe YouTube",
+    "postedOn": "Publicat pe {{date}}",
+    "loadMore": "Încarcă mai multe"
+  },
+  "admin": {
+    "loginTitle": "Autentificare Admin",
+    "username": "Nume utilizator",
+    "password": "Parolă",
+    "loginButton": "Autentificare",
+    "loginError": "Credențiale invalide. Vă rugăm încercați din nou.",
+    "dashboardTitle": "Panou de control",
+    "videosTitle": "Gestionare videoclipuri",
+    "addVideo": "Adaugă videoclip",
+    "editVideo": "Editează videoclip",
+    "deleteVideo": "Șterge videoclip",
+    "confirmDelete": "Ești sigur că vrei să ștergi acest videoclip?",
+    "totalVideos": "Total videoclipuri",
+    "lastUpload": "Ultima încărcare",
+    "langCoverage": "Acoperire lingvistică",
+    "welcome": "Bun venit, {{name}}",
+    "recentVideos": "Videoclipuri recente",
+    "quickActions": "Acțiuni rapide",
+    "form": {
+      "youtubeUrl": "URL YouTube",
+      "youtubeUrlHint": "Lipește URL-ul complet al videoclipului YouTube",
+      "titleEn": "Titlu (Engleză)",
+      "titleFr": "Titlu (Franceză)",
+      "titleRo": "Titlu (Română)",
+      "descEn": "Descriere (Engleză)",
+      "descFr": "Descriere (Franceză)",
+      "descRo": "Descriere (Română)",
+      "thumbnail": "Miniatură personalizată (opțional)",
+      "thumbnailHint": "JPG/PNG/WebP, max 20 MB. Convertit automat în WebP.",
+      "save": "Salvează videoclip",
+      "cancel": "Anulează",
+      "saving": "Se salvează...",
+      "saveSuccess": "Videoclip salvat cu succes!",
+      "deleteSuccess": "Videoclip șters."
+    },
+    "bikesTitle": "Gestionare motociclete",
+    "addBike": "Adaugă motocicletă",
+    "editBike": "Editează motocicleta",
+    "deleteBike": "Șterge motocicleta",
+    "noBikes": "Nicio motocicletă adăugată.",
+    "activeBike": "Activă",
+    "setActive": "Setează ca motocicletă activă",
+    "confirmDeleteBike": "Ești sigur că vrei să ștergi această motocicletă?",
+    "bikeForm": {
+      "heroVideo": "URL video hero",
+      "photos": "Fotografii",
+      "photoUrlPlaceholder": "Lipește URL-ul imaginii și apasă Enter",
+      "uploadFromDevice": "Încarcă de pe dispozitiv",
+      "uploading": "Se încarcă…",
+      "deleteSuccess": "Motocicleta ștearsă.",
+      "activateSuccess": "Motocicleta setată ca activă!"
+    }
+  },
+  "footer": {
+    "tagline": "Pasiune pentru motociclete — o tură la un moment dat.",
+    "rights": "Toate drepturile rezervate."
+  },
+  "errors": {
+    "notFound": "Pagina nu a fost găsită",
+    "notFoundMessage": "Pagina pe care o cauți nu există.",
+    "serverError": "Ceva nu a mers bine. Vă rugăm încercați din nou.",
+    "unauthorized": "Trebuie să fiți conectat pentru a accesa această pagină.",
+    "sessionExpired": "Sesiunea a expirat. Vă rugăm să vă conectați din nou."
+  },
+  "accessibility": {
+    "skipToContent": "Mergi la conținutul principal",
+    "langSwitcher": "Schimbă limba",
+    "toggleTheme": "Comută modul întunecat/luminos",
+    "playVideo": "Redă videoclipul: {{title}}",
+    "closeModal": "Închide fereastra",
+    "loading": "Se încarcă..."
+  }
+}

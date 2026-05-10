@@ -1,0 +1,33 @@
+# Dependencies — always excluded
+node_modules
+**/node_modules
+
+# Dev build output — client/dist is built inside Docker
+client/dist
+
+# Local environment files — never bake secrets into the image
+.env
+.env.local
+.env.production
+.env.*.local
+
+# Git
+.git
+.gitignore
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
+
+# SQLite database (persisted as Docker volume)
+server/data/*.db
+server/data/*.db-wal
+server/data/*.db-shm

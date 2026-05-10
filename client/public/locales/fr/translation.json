@@ -1,0 +1,113 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "myBike": "Ma Moto",
+    "videos": "Vidéos",
+    "adminLogin": "Admin",
+    "logout": "Déconnexion"
+  },
+  "hero": {
+    "headline": "La vie sur deux roues",
+    "subline": "Bienvenue dans mon univers moto — sorties, préparations et tout le reste.",
+    "ctaBike": "Voir ma moto",
+    "ctaVideos": "Regarder les vidéos"
+  },
+  "myBike": {
+    "pageTitle": "Ma Moto",
+    "sectionSpecs": "Caractéristiques techniques",
+    "sectionGallery": "Galerie",
+    "sectionStory": "L'histoire",
+    "storyPlaceholder": "[Remplacez par votre histoire personnelle avec cette moto]",
+    "specs": {
+      "brand": "Marque",
+      "model": "Modèle",
+      "year": "Année",
+      "engine": "Moteur",
+      "power": "Puissance",
+      "torque": "Couple",
+      "weight": "Poids à sec",
+      "topSpeed": "Vitesse max",
+      "color": "Couleur",
+      "mileage": "Kilométrage actuel"
+    }
+  },
+  "videos": {
+    "pageTitle": "Vidéos de roulage",
+    "noVideos": "Aucune vidéo pour le moment — revenez bientôt !",
+    "watchOn": "Voir sur YouTube",
+    "postedOn": "Publié le {{date}}",
+    "loadMore": "Charger plus"
+  },
+  "admin": {
+    "loginTitle": "Connexion Admin",
+    "username": "Nom d'utilisateur",
+    "password": "Mot de passe",
+    "loginButton": "Se connecter",
+    "loginError": "Identifiants invalides. Veuillez réessayer.",
+    "dashboardTitle": "Tableau de bord",
+    "videosTitle": "Gérer les vidéos",
+    "addVideo": "Ajouter une vidéo",
+    "editVideo": "Modifier la vidéo",
+    "deleteVideo": "Supprimer la vidéo",
+    "confirmDelete": "Êtes-vous sûr de vouloir supprimer cette vidéo ?",
+    "totalVideos": "Total vidéos",
+    "lastUpload": "Dernier ajout",
+    "langCoverage": "Couverture linguistique",
+    "welcome": "Bienvenue, {{name}}",
+    "recentVideos": "Vidéos récentes",
+    "quickActions": "Actions rapides",
+    "form": {
+      "youtubeUrl": "URL YouTube",
+      "youtubeUrlHint": "Collez l'URL complète de la vidéo YouTube",
+      "titleEn": "Titre (Anglais)",
+      "titleFr": "Titre (Français)",
+      "titleRo": "Titre (Roumain)",
+      "descEn": "Description (Anglais)",
+      "descFr": "Description (Français)",
+      "descRo": "Description (Roumain)",
+      "thumbnail": "Miniature personnalisée (optionnel)",
+      "thumbnailHint": "JPG/PNG/WebP, max 20 Mo. Converti automatiquement en WebP.",
+      "save": "Enregistrer la vidéo",
+      "cancel": "Annuler",
+      "saving": "Enregistrement...",
+      "saveSuccess": "Vidéo enregistrée avec succès !",
+      "deleteSuccess": "Vidéo supprimée."
+    },
+    "bikesTitle": "Gérer les motos",
+    "addBike": "Ajouter une moto",
+    "editBike": "Modifier la moto",
+    "deleteBike": "Supprimer la moto",
+    "noBikes": "Aucune moto ajoutée.",
+    "activeBike": "Active",
+    "setActive": "Définir comme moto active",
+    "confirmDeleteBike": "Êtes-vous sûr de vouloir supprimer cette moto ?",
+    "bikeForm": {
+      "heroVideo": "URL de la vidéo hero",
+      "photos": "Photos",
+      "photoUrlPlaceholder": "Collez l'URL de l'image et appuyez sur Entrée",
+      "uploadFromDevice": "Télécharger depuis l'appareil",
+      "uploading": "Téléchargement…",
+      "deleteSuccess": "Moto supprimée.",
+      "activateSuccess": "Moto définie comme active !"
+    }
+  },
+  "footer": {
+    "tagline": "Passion pour les motos — une sortie à la fois.",
+    "rights": "Tous droits réservés."
+  },
+  "errors": {
+    "notFound": "Page introuvable",
+    "notFoundMessage": "La page que vous recherchez n'existe pas.",
+    "serverError": "Une erreur s'est produite. Veuillez réessayer.",
+    "unauthorized": "Vous devez être connecté pour accéder à cette page.",
+    "sessionExpired": "Votre session a expiré. Veuillez vous reconnecter."
+  },
+  "accessibility": {
+    "skipToContent": "Aller au contenu principal",
+    "langSwitcher": "Changer de langue",
+    "toggleTheme": "Basculer mode sombre/clair",
+    "playVideo": "Lire la vidéo : {{title}}",
+    "closeModal": "Fermer la fenêtre",
+    "loading": "Chargement..."
+  }
+}

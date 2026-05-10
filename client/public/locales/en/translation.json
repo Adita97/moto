@@ -1,0 +1,113 @@
+{
+  "nav": {
+    "home": "Home",
+    "myBike": "My Bike",
+    "videos": "Videos",
+    "adminLogin": "Admin",
+    "logout": "Logout"
+  },
+  "hero": {
+    "headline": "Life on Two Wheels",
+    "subline": "Welcome to my personal motorcycle world — rides, mods, and everything in between.",
+    "ctaBike": "Meet My Bike",
+    "ctaVideos": "Watch Videos"
+  },
+  "myBike": {
+    "pageTitle": "My Motorcycle",
+    "sectionSpecs": "Technical Specs",
+    "sectionGallery": "Gallery",
+    "sectionStory": "The Story",
+    "storyPlaceholder": "[Replace with your personal story about this bike]",
+    "specs": {
+      "brand": "Brand",
+      "model": "Model",
+      "year": "Year",
+      "engine": "Engine",
+      "power": "Power",
+      "torque": "Torque",
+      "weight": "Dry Weight",
+      "topSpeed": "Top Speed",
+      "color": "Color",
+      "mileage": "Current Mileage"
+    }
+  },
+  "videos": {
+    "pageTitle": "Ride Videos",
+    "noVideos": "No videos yet — check back soon!",
+    "watchOn": "Watch on YouTube",
+    "postedOn": "Posted on {{date}}",
+    "loadMore": "Load More"
+  },
+  "admin": {
+    "loginTitle": "Admin Login",
+    "username": "Username",
+    "password": "Password",
+    "loginButton": "Sign In",
+    "loginError": "Invalid credentials. Please try again.",
+    "dashboardTitle": "Dashboard",
+    "videosTitle": "Manage Videos",
+    "addVideo": "Add Video",
+    "editVideo": "Edit Video",
+    "deleteVideo": "Delete Video",
+    "confirmDelete": "Are you sure you want to delete this video?",
+    "totalVideos": "Total Videos",
+    "lastUpload": "Last Upload",
+    "langCoverage": "Language Coverage",
+    "welcome": "Welcome, {{name}}",
+    "recentVideos": "Recent Videos",
+    "quickActions": "Quick Actions",
+    "form": {
+      "youtubeUrl": "YouTube URL",
+      "youtubeUrlHint": "Paste the full YouTube watch URL",
+      "titleEn": "Title (English)",
+      "titleFr": "Title (French)",
+      "titleRo": "Title (Romanian)",
+      "descEn": "Description (English)",
+      "descFr": "Description (French)",
+      "descRo": "Description (Romanian)",
+      "thumbnail": "Custom Thumbnail (optional)",
+      "thumbnailHint": "JPG/PNG/WebP, max 20 MB. Auto-converted to WebP.",
+      "save": "Save Video",
+      "cancel": "Cancel",
+      "saving": "Saving...",
+      "saveSuccess": "Video saved successfully!",
+      "deleteSuccess": "Video deleted."
+    },
+    "bikesTitle": "Manage Bikes",
+    "addBike": "Add Bike",
+    "editBike": "Edit Bike",
+    "deleteBike": "Delete Bike",
+    "noBikes": "No bikes added yet.",
+    "activeBike": "Active",
+    "setActive": "Set as Active Bike",
+    "confirmDeleteBike": "Are you sure you want to delete this bike?",
+    "bikeForm": {
+      "heroVideo": "Hero Video URL",
+      "photos": "Photos",
+      "photoUrlPlaceholder": "Paste image URL and press Enter",
+      "uploadFromDevice": "Upload from device",
+      "uploading": "Uploading…",
+      "deleteSuccess": "Bike deleted.",
+      "activateSuccess": "Bike set as active!"
+    }
+  },
+  "footer": {
+    "tagline": "Passion for motorcycles — one ride at a time.",
+    "rights": "All rights reserved."
+  },
+  "errors": {
+    "notFound": "Page not found",
+    "notFoundMessage": "The page you're looking for doesn't exist.",
+    "serverError": "Something went wrong. Please try again.",
+    "unauthorized": "You must be logged in to access this page.",
+    "sessionExpired": "Your session expired. Please log in again."
+  },
+  "accessibility": {
+    "skipToContent": "Skip to main content",
+    "langSwitcher": "Change language",
+    "toggleTheme": "Toggle dark/light mode",
+    "playVideo": "Play video: {{title}}",
+    "closeModal": "Close modal",
+    "loading": "Loading..."
+  }
+}

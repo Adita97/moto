@@ -1,0 +1,18 @@
+services:
+  moto:
+    build: .
+    container_name: moto-app
+    restart: unless-stopped
+    ports:
+      - "3001:3001"
+    env_file:
+      - .env
+    volumes:
+      # Persist SQLite database across container rebuilds
+      - moto-data:/app/server/data
+      # Persist uploaded thumbnails and bike photos
+      - moto-uploads:/app/server/uploads
+
+volumes:
+  moto-data:
+  moto-uploads:
